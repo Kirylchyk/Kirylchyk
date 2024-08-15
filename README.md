@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 👩‍💻 Pronouns: She/Her  
 🌟 Fun fact: I make my own kombucha at home and love experimenting with different flavors. 🍹
 
-### 🚀 **Tech Stack** at my focus now, expanding soon!
+🚀 **Tech Stack** at my focus now, expanding soon!
 
 <table>
   <tr>
