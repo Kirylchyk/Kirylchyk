@@ -1,4 +1,4 @@
-## Hi there, I'm Varvara 👋🌟
+## Hey there, I'm Varvara 👋🌟
 
 Welcome to my GitHub profile!
 
@@ -52,4 +52,4 @@ Welcome to my GitHub profile!
 
 
 
-Thank you for visiting my profile. Let's connect! 🤝
+Let's connect! 🤝
